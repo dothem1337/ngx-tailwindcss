@@ -1,6 +1,10 @@
 {
   "name": "ngx-tailwindcss",
   "version": "1.0.2",
+  "preferGlobal": true,
+  "bin": {
+    "ng-tailwindcss": "./index.js"
+  },
   "description": "A helpful cli tool for integrating tailwindcss with angular-cli projects, inspired from https://www.npmjs.com/package/ng-tailwindcss with more functionality for sass",
   "main": "index.js",
   "scripts": {
