@@ -1,0 +1,31 @@
+{
+  "name": "ngx-tailwindcss",
+  "version": "1.0.0",
+  "description": "A helpful cli tool for integrating tailwindcss with angular-cli projects, inspired from https://www.npmjs.com/package/ng-tailwindcss with more functionality for sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dothem1337/ngx-tailwindcss.git"
+  },
+  "keywords": [
+    "angular",
+    "tailwind",
+    "css",
+    "angular-cli",
+    "cli",
+    "sass"
+  ],
+  "author": "Simon Lehmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dothem1337/ngx-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/dothem1337/ngx-tailwindcss#readme",
+  "dependencies": {
+    "chokidar": "^2.0.3",
+    "commander": "^2.15.1"
+  }
+}
